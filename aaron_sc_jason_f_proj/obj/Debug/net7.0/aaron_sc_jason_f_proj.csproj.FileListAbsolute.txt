@@ -1,0 +1,14 @@
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\bin\Debug\net7.0\aaron_sc_jason_f_proj.exe
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\bin\Debug\net7.0\aaron_sc_jason_f_proj.deps.json
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\bin\Debug\net7.0\aaron_sc_jason_f_proj.runtimeconfig.json
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\bin\Debug\net7.0\aaron_sc_jason_f_proj.dll
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\bin\Debug\net7.0\aaron_sc_jason_f_proj.pdb
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\obj\Debug\net7.0\aaron_sc_jason_f_proj.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\obj\Debug\net7.0\aaron_sc_jason_f_proj.AssemblyInfoInputs.cache
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\obj\Debug\net7.0\aaron_sc_jason_f_proj.AssemblyInfo.cs
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\obj\Debug\net7.0\aaron_sc_jason_f_proj.csproj.CoreCompileInputs.cache
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\obj\Debug\net7.0\aaron_sc_jason_f_proj.dll
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\obj\Debug\net7.0\refint\aaron_sc_jason_f_proj.dll
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\obj\Debug\net7.0\aaron_sc_jason_f_proj.pdb
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\obj\Debug\net7.0\aaron_sc_jason_f_proj.genruntimeconfig.cache
+c:\Users\aaron\OneDrive\Documents\GitHub\Aaron_SC_Jason_F_AI_Advisor\aaron_sc_jason_f_proj\obj\Debug\net7.0\ref\aaron_sc_jason_f_proj.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\AI_Advisor\\aaron_sc_jason_f_proj\\aaron_sc_jason_f_proj.csproj",
+      "projectUniqueName": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Aaron_SC_Jason_F_AI_Advisor\\aaron_sc_jason_f_proj\\aaron_sc_jason_f_proj.csproj",
       "projectName": "aaron_sc_jason_f_proj",
-      "projectPath": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\AI_Advisor\\aaron_sc_jason_f_proj\\aaron_sc_jason_f_proj.csproj",
+      "projectPath": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Aaron_SC_Jason_F_AI_Advisor\\aaron_sc_jason_f_proj\\aaron_sc_jason_f_proj.csproj",
       "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\AI_Advisor\\aaron_sc_jason_f_proj\\obj\\",
+      "outputPath": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Aaron_SC_Jason_F_AI_Advisor\\aaron_sc_jason_f_proj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aaron\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,9 +25,6 @@
       "originalTargetFrameworks": [
         "net7.0"
       ],
-      "sources": {
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",

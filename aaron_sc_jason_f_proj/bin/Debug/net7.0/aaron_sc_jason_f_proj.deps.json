@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "aaron_sc_jason_f_proj/1.0.0": {
+        "runtime": {
+          "aaron_sc_jason_f_proj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aaron_sc_jason_f_proj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
